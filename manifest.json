@@ -1,0 +1,17 @@
+{
+    "name": "Majid Alber",
+    "icons": [
+        {
+            "src": "/assets/img/Alber%20mosque%20logo%20%201.png",
+            "type": "image/png",
+            "sizes": "102x83"
+        },
+        {
+            "src": "/assets/img/wall.avif",
+            "type": "image/avif",
+            "sizes": "980x502"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen"
+}
