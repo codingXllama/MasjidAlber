@@ -749,6 +749,10 @@ progress {
 .col {
   flex: 1 0 0%;
 }
+
+.col-homescreen {
+  flex: 1 0 30%;
+}
 .row-cols-auto > * {
   flex: 0 0 auto;
   width: auto;
